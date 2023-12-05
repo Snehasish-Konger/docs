@@ -27,12 +27,12 @@ Before you embark on submitting a new source suggestion, it's crucial to familia
 2. Click the `Suggest new source` option on the left sidebar
 3. Insert a URL of your publication's RSS feed (recommended) or a URL to your publication's homepage
 4. Click the `Check link` button
-5. Choose the relevant rss feed (in case ,utiple ones have been found),
+5. Choose the relevant rss feed (in case, multiple ones have been found),
 6. 4. Click the `Submit` button, and you're good to go
 
 ### Review process
 
-Once you've successfully submitted a source suggestion our team would manually review it. That's our way to ensure that the [content guidelines](/for-content-creators/content-guidelines.md) are met. **The review process usually takes up to 30 days**.
+Once you've successfully submitted a source suggestion our team will manually review it. That's our way to ensure that the [content guidelines](/for-content-creators/content-guidelines.md) are met. **The review process usually takes up to 30 days**.
 
 You can expect to receive the following notifications by email:
 1. Once the source request was successfully sent
